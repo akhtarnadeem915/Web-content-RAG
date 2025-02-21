@@ -17,6 +17,6 @@ Simply enter a URL, and the system will:
 
 
 ## UI example and QnA in action!
-![Alt Text](Screenshot from 2025-02-20 19-37-57.png)
+![example1](https://github.com/akhtarnadeem915/Web-content-RAG/blob/main/Screenshot%20from%202025-02-20%2019-37-57.png)
 
-![Alt Text](Screenshot from 2025-02-20 19-39-04.png)
+![example2](https://github.com/akhtarnadeem915/Web-content-RAG/blob/main/Screenshot%20from%202025-02-20%2019-39-04.png)

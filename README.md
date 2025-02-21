@@ -1,7 +1,7 @@
 # Web-Content-RAG
 
 Web-Content-RAG allows users to extract and query web page content using RAG (Retrieval-Augmented Generation).
-Simply enter a URL, and the system will:
+Simply enter a URL, and the system will:  
 ✅ Extract structured content from the webpage  
 ✅ Split the text while preserving its structure  
 ✅ Store the data in a FAISS vector database  
